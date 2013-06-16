@@ -2,7 +2,7 @@ import json
 import urllib2
 import os
 
-backup_path = "~/Dropbox/git-rep/github"
+backup_path = "~/Dropbox/github"
 username = "changyy"
 github_api = "https://api.github.com/users/"+username+"/repos"
 
